@@ -1,0 +1,13 @@
+C:\Test01\NewTest\NewTryTest\bin\Debug\netcoreapp3.1\NewTryTest.exe
+C:\Test01\NewTest\NewTryTest\bin\Debug\netcoreapp3.1\NewTryTest.deps.json
+C:\Test01\NewTest\NewTryTest\bin\Debug\netcoreapp3.1\NewTryTest.runtimeconfig.json
+C:\Test01\NewTest\NewTryTest\bin\Debug\netcoreapp3.1\NewTryTest.runtimeconfig.dev.json
+C:\Test01\NewTest\NewTryTest\bin\Debug\netcoreapp3.1\NewTryTest.dll
+C:\Test01\NewTest\NewTryTest\bin\Debug\netcoreapp3.1\NewTryTest.pdb
+C:\Test01\NewTest\NewTryTest\obj\Debug\netcoreapp3.1\NewTryTest.csprojAssemblyReference.cache
+C:\Test01\NewTest\NewTryTest\obj\Debug\netcoreapp3.1\NewTryTest.AssemblyInfoInputs.cache
+C:\Test01\NewTest\NewTryTest\obj\Debug\netcoreapp3.1\NewTryTest.AssemblyInfo.cs
+C:\Test01\NewTest\NewTryTest\obj\Debug\netcoreapp3.1\NewTryTest.csproj.CoreCompileInputs.cache
+C:\Test01\NewTest\NewTryTest\obj\Debug\netcoreapp3.1\NewTryTest.dll
+C:\Test01\NewTest\NewTryTest\obj\Debug\netcoreapp3.1\NewTryTest.pdb
+C:\Test01\NewTest\NewTryTest\obj\Debug\netcoreapp3.1\NewTryTest.genruntimeconfig.cache
